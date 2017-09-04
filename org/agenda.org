@@ -1,0 +1,3 @@
+| *Time*     | *Country*   | *Indicator*      | *Period*   | *Forecast*   | *Impact*   |
+|------------+-------------+------------------+------------+--------------+------------|
+| 11:00:00   | US          | Factory Orders   | July       | -3,3% mom    | Medium     |

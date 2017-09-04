@@ -1,0 +1,193 @@
+#+SETUPFILE:./config/setupfile.org
+
+#+BEGIN_EXPORT latex
+   \thispagestyle{firstpagestyle}
+#+END_EXPORT
+
+#+BEGIN_EXPORT latex
+\import{latex/}{side_info}
+#+END_EXPORT
+
+#+BEGIN_EXPORT latex
+\pagestyle{plain}
+  \begin{tcolorbox}[colbak=red!5!white, colframe=red!0!white]
+  \large{
+  \textbf{Highlights}
+  \vspace{0.1cm}
+  \it
+    \import{latex/}{highlights}
+  }
+  \end{tcolorbox}
+  \vspace{-0.2cm}
+
+#+END_EXPORT
+
+#+BEGIN_EXPORT latex
+\setlength{\parindent}{0cm}
+\setlength{\parskip}{0.1cm}
+#+END_EXPORT
+
+#+INCLUDE:"./html/salutation.html" export html
+
+#+BEGIN_EXPORT html
+<h4 id="headlines">Highlights </h4>
+#+END_EXPORT
+
+#+INCLUDE:"./html/highlights.html" export html
+
+#+INCLUDE:"./org/body.org"
+
+#+INCLUDE:"./html/signature.html" export html
+
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+
+* COMMENT Trade's Corner
+#+BEGIN_EXPORT latex
+\begin{tcolorbox}[colbak=red!5!white, colframe=red!0!white]
+\large{
+\textbf{Our Call}
+\vspace{0.1cm}
+\it
+  \import{latex/}{strategy}
+}
+\end{tcolorbox}
+\vspace{-0.2cm}
+\member{Fixed Income Trader}{xyxyxyxyx}%
+         {xyxyxyxy@bgcpartners.com}{+55 11 3077 xyxyx}
+\newpage
+#+END_EXPORT
+
+
+
+* Brazilian Bonds                                                 
+
+
+#+BEGIN_EXPORT latex
+\begin{center}
+\textbf{NTNF} \\
+\vspace{0.1cm}
+\import{latex/}{NTN-F}
+\end{center}
+\vspace{0.5cm}
+#+END_EXPORT
+
+#+BEGIN_EXPORT latex
+   \begin{center}
+   \textbf{LTN} \\
+    \vspace{0.1cm}
+   \import{latex/}{LTN}
+   \vspace{0.5cm}
+   \end{center}
+
+#+END_EXPORT
+
+#+BEGIN_EXPORT latex
+\begin{center}
+   \textbf{NTN-B} \\
+\vspace{0.1cm}
+       \import{latex/}{NTN-B}
+       \vspace{0.1cm}
+     \end{center}
+     \newpage
+#+END_EXPORT
+
+
+
+#+attr_latex: :width 16.0cm
+[[file:charts/fixed.png]]
+
+#+attr_latex: :width 16.0cm
+[[file:charts/fixed_di.png]]
+
+#+attr_latex: :width 16.0cm
+[[file:charts/ntnb.png]]
+
+
+* DI - Open Interest                                        
+
+#+BEGIN_EXPORT latex
+  \begin{center}
+    \import{latex/}{OpenInterest}
+  \end{center}
+\newpage
+#+END_EXPORT
+
+#+BEGIN_EXPORT latex
+\vspace{3.0cm}
+  \begin{center}
+    \import{latex/}{DIContracts}
+  \end{center}
+\newpage
+#+END_EXPORT
+
+
+* DI - DV01 Table                                                 
+
+#+BEGIN_EXPORT latex
+  \begin{center}
+    \import{latex/}{DIs}
+  \end{center}
+\newpage
+#+END_EXPORT
+
+
+* NTNB FRAs                                                       
+
+
+#+attr_latex: :width 10.5cm :options angle=90
+[[file:images/FRA_NTNB.png]]
+
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+
+
+* DI FRAs                                                        
+#+attr_latex: :width 10.5cm :options angle=90
+[[file:images/FRA_DI.png]]
+
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+
+
+* Disclaimer                                                
+\smallsize
+#+BEGIN_QUOTE
+This report has been produced by Guide Investimentos S.A Corretora de
+Valores solely for its recipients and should not be distributed
+without previous consent from Guide Investimentos S.A.  Although this
+report is based upon the most reliable public information, Guide
+Investimentos makes no warranties of the reliability of such
+information. This document is for informational purposes only and does
+not constitute any tender to sell or buy financial
+instruments. Information discussed herein is not suitable for all
+investors and it does not aim at providing any trading strategy for
+individual goals. Investors should have experience and knowledge of
+the risks in FX/Fixed Income markets. Guide Investimentos S.A
+Corretora de Valores has no obligation to update, revise or modify any
+information contained herein. Guide Investimentos and its analysts
+shall not be held responsible for any accidental incorrect
+information, nor for investment decisions taken based upon the
+information contained herein. Additional information discussed on this
+report is available upon request.  Analysts each certify that the
+views expressed in this report represent only personal views produced
+independently, including with respect Guide Investimentos S.A
+Corretora de Valores. This report should not be considered as research
+report ("relatório de análise") for the purposes of the article 1 of
+CVM Instruction NR 483. Opinions, estimates and projections contained
+herein express the current judgment of the analysts build on the date
+this report was released and therefore can be changed without
+notice. Analysts do not accept any liability that incorrect use of
+this report could cause, including financial losses. Upon accepting
+this document, one should agree with all the above-mentioned
+limitations
+#+END_QUOTE
+
+
+* COMMENT Local Variables
+# Local Variables:
+# eval: (load-file "./elisp/publishing.el")
+# END:

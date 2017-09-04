@@ -1,0 +1,25 @@
+#+STARTUP: indent
+#+TITLE:
+#+OPTIONS: toc:nil author:nil date:nil title:nil html-postamble:nil
+#+LATEX_CLASS: report
+#+LATEX_CLASS_OPTIONS:
+#+LATEX_HEADER:
+#+LATEX_HEADER_EXTRA:
+#+LATEX_HEADER:\usepackage{paralist}
+#+LATEX_HEADER:\usepackage{tcolorbox}
+#+LATEX_HEADER:\usepackage[table]{xcolor}
+#+LATEX_HEADER:\usepackage{lipsum}
+#+LATEX_HEADER:\usepackage{caption}
+#+LATEX_HEADER:\usepackage{tabu}
+#+LATEX_HEADER:\usepackage[subpreambles=true]{standalone}
+#+LATEX_HEADER:\usepackage{import}
+#+LATEX_HEADER:\usepackage{setspace}
+#+LATEX_HEADER:\usepackage{graphics}
+#+LATEX_HEADER:\usepackage[linktocpage=true]{hyperref}
+#+LATEX_HEADER:\usepackage{tocloft}
+#+LATEX_HEADER:\usepackage{minitoc}
+#+LATEX_HEADER:\usepackage[portuguese]{babel}
+#+LATEX_HEADER:\usepackage{subfig}
+#+LATEX_HEADER:\usepackage[utf8]{inputenc}
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./static/css/stylesheet.css"/>
+#+HTML_DOCTYPE: html5

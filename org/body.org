@@ -1,0 +1,45 @@
+*Global Markets.* European equities are broadly down while S&P future
+is falling 0.4%. The Mexican peso is falling against the USD by
+0.55%. Commodities: Oil is roughly flat and steel is up by 1.6%.
+
+*Local News*. Politics comes to back to fore with a pretty full agenda
+ahead of September 7th holiday. For one, the Upper House ought to approve the
+provisional measure on the TPL, which is expected to take place on
+this coming Tuesday. In the meantime, there is a growing anxiety that
+the ousting Attorney General may finally release its second charge
+against President Temer, pending only the approval by the Supreme
+Court of the plea bargain by Mr. Furnaro, the former PMDB's financier. 
+
+Against this background, the newspapers indicate that the Presidential
+race is getting steam. On one hand, the O Estadao, published an
+interviews with the Mayor of Sao Paulo City, where he made no effort
+to deny his ambitions, stating that whoever will be leading the polls
+should be PSDB's president. On the other one, according to O Valor,
+Mr. Alckmin has stated his ready to step down on April in other to run
+for President. As one may gather, both politicians are ready for the
+fight.
+
+Still on the political front, the media also resonates the sour
+dispute between PMDB and DEM, also motivated by 2018 general
+elections. At the end of the day, both parties are looking forward to
+enlarging their Congress share in Congress and are thus disputing the
+politicians from other parties, particularly from PSB. This is leaving
+a few bruises opened, which may threaten the stability of Mr. Temer's
+support.
+
+Finally, on the economic front, the O Valor discusses Brazil's 2Q2017
+GDP. Overall, the material therein looks more upbeat with regards to
+activity outlook, particularly with regards to 2018.
+
+*Agenda - Highlights*: _Brazil_: Market readout and IGD-DI of
+August. July. _US_: Factory Orders, July.
+
+
+#+LATEX:\rowcolors{2}{grey!15}{white}
+#+LATEX:\vspace{-0.5cm}
+#+INCLUDE: "agenda.org"
+
+*Bottom Line*. Global markets starts off with negative mode, while
+local news comes with mixed feelings. Overall, neutral for local
+markets.
+

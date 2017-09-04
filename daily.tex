@@ -1,0 +1,234 @@
+% Created 2017-09-04 seg 12:38
+% Intended LaTeX compiler: pdflatex
+\documentclass{report}
+               \pagestyle{fancy}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage{paralist}
+\usepackage{tcolorbox}
+\usepackage[table]{xcolor}
+\usepackage{lipsum}
+\usepackage{caption}
+\usepackage{tabu}
+\usepackage[subpreambles=true]{standalone}
+\usepackage{import}
+\usepackage{setspace}
+\usepackage{graphics}
+\usepackage[linktocpage=true]{hyperref}
+\usepackage{tocloft}
+\usepackage{minitoc}
+\usepackage[portuguese, english]{babel}
+\usepackage{subfig}
+\usepackage[utf8]{inputenc}
+\date{}
+\title{}
+\hypersetup{
+ pdfauthor={},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 25.2.1 (Org mode 9.0.9)}, 
+ pdflang={English}}
+\begin{document}
+
+\thispagestyle{firstpagestyle}
+
+\import{latex/}{side_info}
+
+\pagestyle{plain}
+  \begin{tcolorbox}[colbak=red!5!white, colframe=red!0!white]
+  \large{
+  \textbf{Highlights}
+  \vspace{0.1cm}
+  \it
+    \import{latex/}{highlights}
+  }
+  \end{tcolorbox}
+  \vspace{-0.2cm}
+
+\setlength{\parindent}{0cm}
+\setlength{\parskip}{0.1cm}
+
+\textbf{Global Markets.} European equities are broadly down while S\&P future
+is falling 0.4\%. The Mexican peso is falling against the USD by
+0.55\%. Commodities: Oil is roughly flat and steel is up by 1.6\%.
+
+\textbf{Local News}. Politics comes to back to fore with a pretty full agenda
+ahead of September 7th holiday. For one, the Upper House ought to approve the
+provisional measure on the TPL, which is expected to take place on
+this coming Tuesday. In the meantime, there is a growing anxiety that
+the ousting Attorney General may finally release its second charge
+against President Temer, pending only the approval by the Supreme
+Court of the plea bargain by Mr. Furnaro, the former PMDB's financier. 
+
+Against this background, the newspapers indicate that the Presidential
+race is getting steam. On one hand, the O Estadao, published an
+interviews with the Mayor of Sao Paulo City, where he made no effort
+to deny his ambitions, stating that whoever will be leading the polls
+should be PSDB's president. On the other one, according to O Valor,
+Mr. Alckmin has stated his ready to step down on April in other to run
+for President. As one may gather, both politicians are ready for the
+fight.
+
+Still on the political front, the media also resonates the sour
+dispute between PMDB and DEM, also motivated by 2018 general
+elections. At the end of the day, both parties are looking forward to
+enlarging their Congress share in Congress and are thus disputing the
+politicians from other parties, particularly from PSB. This is leaving
+a few bruises opened, which may threaten the stability of Mr. Temer's
+support.
+
+Finally, on the economic front, the O Valor discusses Brazil's 2Q2017
+GDP. Overall, the material therein looks more upbeat with regards to
+activity outlook, particularly with regards to 2018.
+
+\textbf{Agenda - Highlights}: \uline{Brazil}: Market readout and IGD-DI of
+August. July. \uline{US}: Factory Orders, July.
+
+
+\rowcolors{2}{grey!15}{white}
+\vspace{-0.5cm}
+\begin{center}
+\begin{tabular}{rlllll}
+\textbf{Time} & \textbf{Country} & \textbf{Indicator} & \textbf{Period} & \textbf{Forecast} & \textbf{Impact}\\
+\hline
+11:00:00 & US & Factory Orders & July & -3,3\% mom & Medium\\
+\end{tabular}
+\end{center}
+
+\textbf{Bottom Line}. Global markets starts off with negative mode, while
+local news comes with mixed feelings. Overall, neutral for local
+markets.
+
+\newpage
+
+\section{Brazilian Bonds}
+\label{sec:org5e5b2cb}
+
+
+\begin{center}
+\textbf{NTNF} \\
+\vspace{0.1cm}
+\import{latex/}{NTN-F}
+\end{center}
+\vspace{0.5cm}
+
+\begin{center}
+\textbf{LTN} \\
+ \vspace{0.1cm}
+\import{latex/}{LTN}
+\vspace{0.5cm}
+\end{center}
+
+\begin{center}
+   \textbf{NTN-B} \\
+\vspace{0.1cm}
+       \import{latex/}{NTN-B}
+       \vspace{0.1cm}
+     \end{center}
+     \newpage
+
+
+
+\begin{center}
+\includegraphics[width=16.0cm]{charts/fixed.png}
+\end{center}
+
+\begin{center}
+\includegraphics[width=16.0cm]{charts/fixed_di.png}
+\end{center}
+
+\begin{center}
+\includegraphics[width=16.0cm]{charts/ntnb.png}
+\end{center}
+
+
+\section{DI - Open Interest}
+\label{sec:org71c6115}
+
+  \begin{center}
+    \import{latex/}{OpenInterest}
+  \end{center}
+\newpage
+
+\vspace{3.0cm}
+  \begin{center}
+    \import{latex/}{DIContracts}
+  \end{center}
+\newpage
+
+
+\section{DI - DV01 Table}
+\label{sec:orgc699158}
+
+  \begin{center}
+    \import{latex/}{DIs}
+  \end{center}
+\newpage
+
+
+\section{NTNB FRAs}
+\label{sec:org89b3a29}
+
+
+\begin{center}
+\includegraphics[angle=90,width=10.5cm]{images/FRA_NTNB.png}
+\end{center}
+
+\newpage
+
+
+\section{DI FRAs}
+\label{sec:orgf3cc546}
+\begin{center}
+\includegraphics[angle=90,width=10.5cm]{images/FRA_DI.png}
+\end{center}
+
+\newpage
+
+
+\section{Disclaimer}
+\label{sec:org7cac1ed}
+\smallsize
+\begin{quote}
+This report has been produced by Guide Investimentos S.A Corretora de
+Valores solely for its recipients and should not be distributed
+without previous consent from Guide Investimentos S.A.  Although this
+report is based upon the most reliable public information, Guide
+Investimentos makes no warranties of the reliability of such
+information. This document is for informational purposes only and does
+not constitute any tender to sell or buy financial
+instruments. Information discussed herein is not suitable for all
+investors and it does not aim at providing any trading strategy for
+individual goals. Investors should have experience and knowledge of
+the risks in FX/Fixed Income markets. Guide Investimentos S.A
+Corretora de Valores has no obligation to update, revise or modify any
+information contained herein. Guide Investimentos and its analysts
+shall not be held responsible for any accidental incorrect
+information, nor for investment decisions taken based upon the
+information contained herein. Additional information discussed on this
+report is available upon request.  Analysts each certify that the
+views expressed in this report represent only personal views produced
+independently, including with respect Guide Investimentos S.A
+Corretora de Valores. This report should not be considered as research
+report ("relatório de análise") for the purposes of the article 1 of
+CVM Instruction NR 483. Opinions, estimates and projections contained
+herein express the current judgment of the analysts build on the date
+this report was released and therefore can be changed without
+notice. Analysts do not accept any liability that incorrect use of
+this report could cause, including financial losses. Upon accepting
+this document, one should agree with all the above-mentioned
+limitations
+\end{quote}
+\end{document}

@@ -1,0 +1,39 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Latex script with info to go on the right hand side of 1st page
+%% Initial Date: 16/02/2017
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+  \setdynamiccontents*{leftUpper}{
+%  \vspace{0.4cm}
+  \member{Chief Economist}{Joao Mauricio Rosal, PhD}%
+         {jmrosal@guideinvestimentos.com.br}{+55 11 3675 6613}
+  \member{Economist}{Vinicius Alves}%
+         {vinicius.alves@investimentos.com.br}{+55 11 3675 6611}
+  }
+
+    \setdynamiccontents*{midUpper}{
+      %Global Indicators
+      \import{latex/}{indicators}
+      \begin{spacing}{0.7}
+      \begingroup
+      \fontsize{8pt}{8pt}\selectfont
+      Source: Bloomberg \\
+      \DTMnow  \\
+      \endgroup
+      \end{spacing}
+  }
+
+    \setdynamiccontents*{midLower}{
+      \includegraphics[width=0.25
+      \textwidth, height=.25\textwidth, left]{./charts/front_chart.png}
+      \begingroup
+      \fontsize{8pt}{8pt}\selectfont
+      Source: Bloomberg \\
+      \endgroup
+  }
+
+   \setdynamiccontents*{leftLower}{
+  \scriptsize{
+  \renewcommand\contentsname{\footnotesize{Contents}}
+  \tableofcontents}
+    }

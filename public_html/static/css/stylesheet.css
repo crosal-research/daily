@@ -1,0 +1,66 @@
+body {
+    width: 45%;
+    margin-left:100px;
+    font-family: times new roman;
+}
+
+
+#headlines {
+    font-size: 12pt;
+    margin-bottom: 0px;
+}
+
+
+ul {
+    font-style: italic;
+    margin-top: 5px;
+}
+
+
+ul li {
+    margin: 5px;
+}
+
+
+table {
+    margin: 4px auto;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    border: 2px solid #eee;
+    border-bottom: 2px solid #ff4d4d;
+}
+
+
+
+table th, table td {
+    color: #000;
+    border: 2px solid #eee;
+    padding: 2px 8px;
+    border-collapse: collapse;
+    margin:0px;
+    text-align: right;
+}
+
+.org-left {
+    text-align: left;
+
+}
+
+table th {
+    background: #000099;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+
+table th.last {
+    border-right: none;
+}
+
+
+.signature {
+    font-style: italic;
+    margin-top: 20px;
+}

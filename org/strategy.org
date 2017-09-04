@@ -1,0 +1,3 @@
+#+options: toc:nil
+#+attr_latex: :environment compactitem
+- We are opening the trade long on xyx and selling xyx

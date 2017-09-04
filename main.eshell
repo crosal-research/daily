@@ -1,0 +1,27 @@
+######################################################################
+# script to run the pre-configuration
+# initial date: 11/04/2017
+######################################################################
+
+
+# fetch data from bmfy
+python ./data/bmf_institutions.py
+
+# generate tables and charts
+python ./tables/bonds.py 
+python ./tables/DIV01.py 
+python ./tables/front_chart.py 
+python ./tables/charts_fixed_income.py 
+python ./tables/indicators.py 
+python ./tables/OpenContracts.py 
+python ./tables/OpenInterest.py 
+python ./tables/agenda.py 
+
+
+
+# pandoc
+pandoc ./latex/agenda.tex -f latex -t org -o ./org/agenda.org 
+pandoc ./org/highlights.org -f org -t latex -o ./latex/highlights.tex 
+pandoc ./org/highlights.org -f org -t html -o ./html/highlights.html 
+
+echo "Pandoc is done!"
