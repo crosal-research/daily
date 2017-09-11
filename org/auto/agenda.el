@@ -1,8 +1,10 @@
 (TeX-add-style-hook
- "daily"
+ "agenda"
  (lambda ()
+   (TeX-add-to-alist 'LaTeX-provided-class-options
+                     '(("article" "11pt")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("fontenc" "T1") ("ulem" "normalem") ("xcolor" "table") ("standalone" "subpreambles=true") ("hyperref" "linktocpage=true") ("babel" "portuguese" "english") ("inputenc" "latin1" "utf8")))
+                     '(("inputenc" "utf8") ("fontenc" "T1") ("ulem" "normalem")))
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
@@ -12,8 +14,8 @@
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "latex2e"
-    "report"
-    "rep10"
+    "article"
+    "art11"
     "inputenc"
     "fontenc"
     "graphicx"
@@ -26,27 +28,6 @@
     "textcomp"
     "amssymb"
     "capt-of"
-    "hyperref"
-    "paralist"
-    "tcolorbox"
-    "xcolor"
-    "lipsum"
-    "caption"
-    "tabu"
-    "standalone"
-    "import"
-    "setspace"
-    "graphics"
-    "tocloft"
-    "minitoc"
-    "babel"
-    "subfig")
-   (LaTeX-add-labels
-    "sec:org5e5b2cb"
-    "sec:org71c6115"
-    "sec:orgc699158"
-    "sec:org89b3a29"
-    "sec:orgf3cc546"
-    "sec:org7cac1ed"))
+    "hyperref"))
  :latex)
 

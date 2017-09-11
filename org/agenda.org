@@ -1,3 +1,4 @@
-| *Time*     | *Country*   | *Indicator*      | *Period*   | *Forecast*   | *Impact*   |
-|------------+-------------+------------------+------------+--------------+------------|
-| 11:00:00   | US          | Factory Orders   | July       | -3,3% mom    | Medium     |
+| *Time*     | *Country*   | *Indicator*        | *Period*   | *Forecast*   | *Impact*   |
+|------------+-------------+--------------------+------------+--------------+------------|
+| 08:00:00   | BZ          | IGP-M 1F @ 0,345   | August     | 0,34% mom    | Medium     |
+| 08:00:00   | BZ          | IPC-S @ 0,10%      | 1W Sep     | 0,10% mom    | Medium     |

@@ -8,14 +8,16 @@ import seaborn as sea
 
 df = pd.read_excel("./data/indicators_input.xlsx", sheetname='chart',
                    index_col=0, parse_cols="A:B",
-                   dayfirst=True, usecols=[0, 1])
+                   dayfirst=True, usecols=[0, 1]).dropna()
 df.columns = ["DI Jan/21"]
 
 def gen_chart(df, title, y_title, date_ini):
     """
     chart for the front page
     """
+    global dfinal
     dfinal = df[df.index >= date_ini]
+
     fig = plt.figure()
     ax = fig.add_subplot(111)
 

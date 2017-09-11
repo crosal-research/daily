@@ -1,45 +1,53 @@
-*Global Markets.* European equities are broadly down while S&P future
-is falling 0.4%. The Mexican peso is falling against the USD by
-0.55%. Commodities: Oil is roughly flat and steel is up by 1.6%.
+*Global Markets.* European equities are surging, while the S&P future
+is up by 0.55%. In the meantime, the Mexican peso is up 0.2% against
+the USD, and the yield of the 10 years Treasury is at
+2.09%. Commodities: Oil is up 0.8% to USD47.8, steel is climbing 1.5%
+and soy prices is about flat.
 
-*Local News*. Politics comes to back to fore with a pretty full agenda
-ahead of September 7th holiday. For one, the Upper House ought to approve the
-provisional measure on the TPL, which is expected to take place on
-this coming Tuesday. In the meantime, there is a growing anxiety that
-the ousting Attorney General may finally release its second charge
-against President Temer, pending only the approval by the Supreme
-Court of the plea bargain by Mr. Furnaro, the former PMDB's financier. 
+*Local News*. The week starts off with the looming risks around the
+*second charge by Attorney General against President Temer*. On this
+*front, the Folha de Sao Paulo resonates the impression within the
+*government that, after the affair concerning the General Attorney and
+*the JBS plea bargain, the President will need to dispense less of a
+*political capital to safeguard his position.
 
-Against this background, the newspapers indicate that the Presidential
-race is getting steam. On one hand, the O Estadao, published an
-interviews with the Mayor of Sao Paulo City, where he made no effort
-to deny his ambitions, stating that whoever will be leading the polls
-should be PSDB's president. On the other one, according to O Valor,
-Mr. Alckmin has stated his ready to step down on April in other to run
-for President. As one may gather, both politicians are ready for the
-fight.
+In fact, in line with the news along the weekend, the government is
+feeling so emboldened that is floating the idea of *voting a full
+pension system reform by October*. Today, it was down to the O Valor
+to circulate this very same idea. In addition, the article makes the
+necessary conjectures over what ought to be approved through a
+constitutional amendment and what may be fixed through provisional
+measures.
 
-Still on the political front, the media also resonates the sour
-dispute between PMDB and DEM, also motivated by 2018 general
-elections. At the end of the day, both parties are looking forward to
-enlarging their Congress share in Congress and are thus disputing the
-politicians from other parties, particularly from PSB. This is leaving
-a few bruises opened, which may threaten the stability of Mr. Temer's
-support.
+On the fiscal front, we sort of have more of the same. /As per/ O
+Globo, *the government continues to struggle with disappointing
+revenues*, which are threatening its new primary target for the
+year. To be sure, the article brings little novelties and, yet again,
+revisits all the well mapped out fiscal risks for the year: Cemig's
+asset action, provisional measures not yet approved, and so on.
 
-Finally, on the economic front, the O Valor discusses Brazil's 2Q2017
-GDP. Overall, the material therein looks more upbeat with regards to
-activity outlook, particularly with regards to 2018.
+Finally, over the weekend, the news underscored the possibility of a
+*BNDES' transfer of about R$180bn* to the Treasury, as opposed to the
+R$100bn previously leaked through the press. Moreover, R$50bn would be
+transfered already this year, which was totally out of the radar
+screen. Worth pointing out, however, that nothing looked set on the
+stone already, since officials of the BNDES themselves were raising
+doubts about the whole transaction.
 
-*Agenda - Highlights*: _Brazil_: Market readout and IGD-DI of
-August. July. _US_: Factory Orders, July.
+*Agenda - Highlights*: _Brazil_: IGP-DI, august and market
+readout. _US_: Empty.
 
 
 #+LATEX:\rowcolors{2}{grey!15}{white}
 #+LATEX:\vspace{-0.5cm}
 #+INCLUDE: "agenda.org"
 
-*Bottom Line*. Global markets starts off with negative mode, while
-local news comes with mixed feelings. Overall, neutral for local
-markets.
+*Bottom Line*. Global folly and neutral local news should set the
+session for a positive start.
+
+
+
+
+
+
 
