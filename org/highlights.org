@@ -1,7 +1,7 @@
 #+options: toc:nil date:nil
 #+attr_latex: :environment compactitem
-- Overseas markets: Markets are surging.
-  
-- Local news: Political and fiscal (no) news: Emboldened Temer and
-  fiscal dire situation.
+- Overseas markets: Sideways, after 5 straight gains.
+
+- Local news: Charge against Temer tipped to the out today.
+
 

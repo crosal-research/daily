@@ -80,7 +80,7 @@ def gen_chart_ntnb(dfinal, title, y_title):
 
 
     # axis config
-    ax.set_ylim([0, 7])
+    ax.set_ylim([2, 6])
     ax.title.set_position([.5,1.03])
 
 

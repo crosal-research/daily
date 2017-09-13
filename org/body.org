@@ -1,49 +1,47 @@
-*Global Markets.* European equities are surging, while the S&P future
-is up by 0.55%. In the meantime, the Mexican peso is up 0.2% against
-the USD, and the yield of the 10 years Treasury is at
-2.09%. Commodities: Oil is up 0.8% to USD47.8, steel is climbing 1.5%
-and soy prices is about flat.
+*Global Markets.* European equities are ticking up, although the S&P
+future is edging down by 0.15%. In the meantime, the Mexican peso is
+down 0.3% against the USD, and the yield of the 10 years Treasury is
+roughly flat to 2.16%. Commodities: Oil is up 0.9% to USD48.6 and soy
+prices is roughly up to 0.3%.
 
-*Local News*. The week starts off with the looming risks around the
-*second charge by Attorney General against President Temer*. On this
-*front, the Folha de Sao Paulo resonates the impression within the
-*government that, after the affair concerning the General Attorney and
-*the JBS plea bargain, the President will need to dispense less of a
-*political capital to safeguard his position.
+*Local News*. The Estadao brings the news the Prosecutor General
+should send his second charge against Mr. Temer to the Supreme Court
+today. According to the news, the charge should be based on the plea
+bargain agreements by Mr. Joesley Batista and Mr. Funaro, the latter
+being tipped to be the former off-the-book treasurer of the PMDB
+group.
 
-In fact, in line with the news along the weekend, the government is
-feeling so emboldened that is floating the idea of *voting a full
-pension system reform by October*. Today, it was down to the O Valor
-to circulate this very same idea. In addition, the article makes the
-necessary conjectures over what ought to be approved through a
-constitutional amendment and what may be fixed through provisional
-measures.
+In the meantime, the Supreme Court itself will start to assess whether
+the Prosecutor meet the conditions to carry on leading these charges,
+after the news around the JBS affair. Over all, newspaper seem to
+agree that, in the most likely case, the Court shall not bar the
+Prosecutor from the case, but this second charge is likely to be
+severely weakened by this whole mess triggered by Joesley's new tapes.
 
-On the fiscal front, we sort of have more of the same. /As per/ O
-Globo, *the government continues to struggle with disappointing
-revenues*, which are threatening its new primary target for the
-year. To be sure, the article brings little novelties and, yet again,
-revisits all the well mapped out fiscal risks for the year: Cemig's
-asset action, provisional measures not yet approved, and so on.
+On the economic front, some more reassuring news. According to the O
+Valor, government's sources would have leaked the information that
+August' revenues are surpassing expectations. In addition, /as per/ O
+Globo, the economic team would be considering growth of up to 1.0%yoy
+for 2017.
 
-Finally, over the weekend, the news underscored the possibility of a
-*BNDES' transfer of about R$180bn* to the Treasury, as opposed to the
-R$100bn previously leaked through the press. Moreover, R$50bn would be
-transfered already this year, which was totally out of the radar
-screen. Worth pointing out, however, that nothing looked set on the
-stone already, since officials of the BNDES themselves were raising
-doubts about the whole transaction.
+Finally, with regard to the fiscal accounts, the media outlet
+"Broadcast" informs the auction of Cemig's former assets should
+indeed go ahead on the 27th of September, as it is no longer expecting any
+agreement with the company. Furthermore, according to the Folha de Sao
+Paulo, there would be an agreement to vote the Refis already today,
+pending the voting of the constitutional amendment of the political
+reform.
 
-*Agenda - Highlights*: _Brazil_: IGP-DI, august and market
-readout. _US_: Empty.
-
+*Agenda - Highlights*: _Brazil_: Service figures, July. _US_:
+Thin.
 
 #+LATEX:\rowcolors{2}{grey!15}{white}
 #+LATEX:\vspace{-0.5cm}
 #+INCLUDE: "agenda.org"
 
-*Bottom Line*. Global folly and neutral local news should set the
-session for a positive start.
+*Bottom Line*. With global markets with little momentum and local news
+kind of on the negative camp, markets look likely set to lackluster
+kick-off.
 
 
 
