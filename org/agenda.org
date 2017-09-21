@@ -1,5 +1,7 @@
-| *Time*     | *Country*   | *Indicator*        | *Period*   | *Forecast*   | *Impact*   |
-|------------+-------------+--------------------+------------+--------------+------------|
-| 09:00:00   | BZ          | Services Volume    | July       | -1,9% YoY    | Medium     |
-| 09:30:00   | US          | PPI Final Demand   | Aug        | 0,3% mom     | High       |
-| 15:00:00   | US          | Monthly Budget     | Aug        | USD 119 b    | Low        |
+| *Time*     | *Country*   | *Indicator*              | *Period*   | *Forecast*   | *Impact*   |
+|------------+-------------+--------------------------+------------+--------------+------------|
+| 08:00:00   | BZ          | Inflation Report         | Sep        | -            | High       |
+| 09:00:00   | BZ          | IPC-15                   | Sep        | 0,13% mom    | High       |
+| 09:30:00   | US          | Initial Jobless Claims   | Sep 16     | 302 k        | Low        |
+| 11:00:00   | US          | Leading index            | Aug        | 0,3% mom     | Low        |
+| 16:30:00   | BZ          | Jobs Creation            | Aug        | 60 k         | Medium     |

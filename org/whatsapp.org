@@ -1,0 +1,13 @@
+#+options: |:nil
+
+*GUIDE INVESTIMENTOS: Daily Economics - {{{time(%Y-%m-%d %a %H:%M)}}}*
+
+*Highlights*
+#+include:"highlights.org"
+
+#+include:"body.org"
+
+_Best Regards_,
+```João Maurício Rosal, Chief Economist```
+```Vinicius Alves, Economist```
+

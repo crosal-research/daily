@@ -11,11 +11,21 @@
          :publishing-directory "./public_html/"
          :recursive t
          :with-tags nil
-         :org-html-postanble nil
+         :org-html-postamble nil
          :org-html-head-include-scripts nil
          :org-html-head-include-default-style nil
          :publishing-function org-html-publish-to-html
          :preparation-function project-prepare-html
+         )
+        ("org"
+         :base-directory "."
+         :base-extension "org"
+         :exclude: "./*"
+         :include: "./whatsapp.org"
+         :publishing-directory "../public_org/"
+         :recursive t
+         :with-tags nil
+         :publishing-function org-org-publish-to-org
          )
         ("static-daily"
          :base-directory "./static/"
