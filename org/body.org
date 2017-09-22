@@ -1,45 +1,51 @@
-*Global Markets.* European equities are up, the S&P future is
-unchanged. The Mexican peso, however is down by 0.2% against the USD,
-and the yield of the 10 years Treasury is up to 2.27%. Commodities:
-oil is down 0.3% to USD50.5, steel is down 0.4% and soy prices is
-climbing about 0.7%.
+*Global Markets.* European equities are up, and the S&P future is
+edging down by 0.1%. The Mexican peso is noticeably up by 0.4% against
+the USD, and the yield of the 10 years Treasury is sliding to
+2.25%. Commodities: oil is marginally down 0.1% to USD50.5, steel is
+down 2.2% and soy prices is climbing by about 0.9%.
 
-*Local News*. *The second charge against Mr. Temer should indeed go to
-the Lower House*, as confirmed yesterday by the Supreme Court. In
-fact, according to the Estadao, the Speaker of the Lower would have
-stated he is planned to get the whole done and over by before the
-October 12th holiday. 
+*Local News*. *Politics.* The second charge against Temer has finally
+been sent to the Lower House. Against this background, the O Estadao
+reiterates the Speaker of House discontentment with the PMDB, which
+has interfered on his party's election strategy, and may impair the
+processing of the charge in the House. At the other extreme, the media
+outlet Broadcast informs Mr. Rogrigo Maia is, nonetheless, resolved to
+get done and over with it in a expedience manner.
 
-That said, the media outlet Brodacast reports Mr. Rodrigo Maia's
-discontentment with PMDB, which has sponsored the entrance of the
-Minister of Energy to PMDB rather than the DEM, Mr. Maia's
-party. Therefore, it remains to be seen whether this affair will
-interfere in the expedience of how the charge will be handled.
+In addition, as we have noticed in our visit to Brasilia this week,
+the O Valor noticed that PSDB looks more tamed now and,
+partially sponsored by the Governor of Sao Paulo, may deliver more
+votes to Temer in this time around. As expected, however, the Estadao
+reports that PP, PR and PSD are again complaining about their
+relationship with the government, and taking up the opportunity to
+raise their stakes for more room in the government.
 
-In the meantime, the Lower House has given an extra step to approve
-*the political reform*. It started to vote, in a second round, the
-constitutional amendment on election coalitions and minimum voting
-thresholds, which will have to continue on next week prior to send the bill
-to the Upper House, where it faces the October 7th deadline. 
+The presidential election race also occupies some importance. As
+matter of fact, Mr. Alckmin move to sooth the government would be indeed a
+step to neutralize Mr. Doria's advancements within the PMDB. In the
+meantime, the latter and Mr. Rodrigo Maia seem to be in courtship
+mode, after having dinner last night. Finally, according to the O
+Valor, the Mr. Henrique Meirelles' name would be gathering strength
+and should the economy take off for good, his candidacy could take off
+for real.
 
-Also next week, the Lower House has another daunting task: vote the
-constitutional amendment on election funding, which faces the same
-deadline.
+*On the fiscal front*, the *Refis* comes back to the fore yet again and,
+as we informed yesterday, the speculation the government may not renew
+its provisional measure continues, which is raising anxieties in the
+Congress, since it would like to see the approval of softer
+version. Meanwhile, the *Cemig's* soup opera leaves on. Although its
+auction is scheduled to next week, the companies is trying to postpone
+in order to strike a last minute deal with the government.
 
-*On the fiscal front*, the Refis is giving the government an extra
-headache. According to the O Valor, The Ministry of Finance is no
-longer interest in approving it, since, reportedly, revenues have been
-quite good so far. However, Congress would be already counting on
-these benefits and dissatisfaction is growing ahead of the vote of the
-second charge against Temer.
+Finally, *on the economic camp*, newspapers comes filled with optimism
+on the back of a discussion over yesterday's *Quarterly Inflation*
+report by the Central Bank. In a nutshell, annalists and commentators
+alike are raising the bets of low interest rates for longer amid
+higher GDP growth.
 
-On the economic front, newspaper conveys several information about
-*privatizations* to come. As /per/ O Valor, the government is now
-studying in more in-depth the Eletrobras' case, which it has now
-floated the idea of privatization the mail services.
-
-*Agenda - Highlights*: _Brazil_: BC's inflation report and mid-term
-CPI. _US_: jobless claims.
+*Agenda - Highlights*: _Brazil_: Consumer confidence - FGV, September
+and Industrial Confidence - CNI, September. _US_: Markit US PMI,
+September.
 
 #+BEGIN_EXPORT latex
 \rowcolors{2}{grey!15}{white}
@@ -48,7 +54,5 @@ CPI. _US_: jobless claims.
 
 #+INCLUDE: "agenda.org"
 
-
-*Bottom Line*. Global markets look a bit counter productive, while
-local news look neutral.  Watch out for CB's inflation report and
-mid-term inflation.
+*Bottom Line*. Global markets looked mixed, while local news comes
+plenty optimism, which may set a positive mode for local markets.

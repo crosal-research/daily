@@ -1,7 +1,6 @@
-| *Time*     | *Country*   | *Indicator*              | *Period*   | *Forecast*   | *Impact*   |
-|------------+-------------+--------------------------+------------+--------------+------------|
-| 08:00:00   | BZ          | Inflation Report         | Sep        | -            | High       |
-| 09:00:00   | BZ          | IPC-15                   | Sep        | 0,13% mom    | High       |
-| 09:30:00   | US          | Initial Jobless Claims   | Sep 16     | 302 k        | Low        |
-| 11:00:00   | US          | Leading index            | Aug        | 0,3% mom     | Low        |
-| 16:30:00   | BZ          | Jobs Creation            | Aug        | 60 k         | Medium     |
+| *Time*     | *Country*   | *Indicator*                  | *Period*   | *Forecast*   | *Impact*   |
+|------------+-------------+------------------------------+------------+--------------+------------|
+| 08:00:00   | BZ          | Consumer Confidence @ 82,3   | Sep        | -            | low        |
+| 10:45:00   | US          | Markit Manufac.              | Sep P      | 53           | Medium     |
+| 10:45:00   | US          | Markit Services              | Sep P      | 55,7         | Medium     |
+| 11:00:00   | BZ          | CNI Business confidence      | Sep        | -            | Low        |

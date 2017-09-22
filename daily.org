@@ -18,7 +18,7 @@
     \import{latex/}{highlights}
   }
   \end{tcolorbox}
-  \vspace{-0.2cm}
+  \vspace{-0.4cm}
 #+END_EXPORT
 
 #+BEGIN_EXPORT latex

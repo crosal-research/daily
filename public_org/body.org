@@ -1,16 +1,5 @@
 # Created 2017-09-22 sex 17:41
-#+OPTIONS: |:nil
-#+OPTIONS: toc:nil date:nil
 #+TITLE: 
-*GUIDE INVESTIMENTOS: Daily Economics - 2017-09-22 sex 17:41*
-
-*Highlights*
-- *Overseas markets*: 10-years Treasury is down, though equities are
-  mixed.
-- *Local news*: The charge against Temer reaches the Lower House, and
-  the Speaker of the House states it will be processed expediently.
-- *Agenda*: Light.
-
 *Global Markets.* European equities are up, and the S&P future is
 edging down by 0.1%. The Mexican peso is noticeably up by 0.4% against
 the USD, and the yield of the 10 years Treasury is sliding to
@@ -60,9 +49,12 @@ higher GDP growth.
 and Industrial Confidence - CNI, September. _US_: Markit US PMI,
 September.
 
+|   *Time* | *Country* | *Indicator*                | *Period* | *Forecast* | *Impact* |
+|----------+-----------+----------------------------+----------+------------+----------|
+| 08:00:00 | BZ        | Consumer Confidence @ 82,3 | Sep      | -          | low      |
+| 10:45:00 | US        | Markit Manufac.            | Sep P    | 53         | Medium   |
+| 10:45:00 | US        | Markit Services            | Sep P    | 55,7       | Medium   |
+| 11:00:00 | BZ        | CNI Business confidence    | Sep      | -          | Low      |
+
 *Bottom Line*. Global markets looked mixed, while local news comes
 plenty optimism, which may set a positive mode for local markets.
-
-_Best Regards_,
-```João Maurício Rosal, Chief Economist```
-```Vinicius Alves, Economist```

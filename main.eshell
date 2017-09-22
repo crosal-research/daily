@@ -21,8 +21,7 @@ python ./tables/agenda.py
 
 # pandoc
 pandoc ./latex/agenda.tex -f latex -t org -o ./org/agenda.org 
-pandoc ./org/highlights.org -f org -t latex -o ./latex/highlights.tex 
+# pandoc ./org/highlights.org -f org -t latex -o ./latex/highlights.tex 
 pandoc ./org/highlights.org -f org -t html -o ./html/highlights.html 
-pandoc ./org/highlights.org -f org -t org -o ./public_org/whatspp.org
 
 echo "Pandoc is done!"

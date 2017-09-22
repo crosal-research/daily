@@ -1,6 +1,7 @@
 #+options: toc:nil date:nil
 #+attr_latex: :environment compactitem
-- *Overseas markets*: 10-years Treasury is up.
-- *Local news*: The charge against Temer to go straight to the Lower
-  House.
-- *Watch out*: Central Bank Inflation Report and Mid-term CPI.
+- *Overseas markets*: 10-years Treasury is down, though equities are
+  mixed.
+- *Local news*: The charge against Temer reaches the Lower House, and
+  the Speaker of the House states it will be processed expediently.
+- *Agenda*: Light.
